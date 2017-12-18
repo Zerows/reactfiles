@@ -17,3 +17,9 @@ or command line, and do `node -v`
 
 - [javascript.info](https://javascript.info/)
 -
+
+For proxy access:
+
+- https://registry.npmjs.org/
+- https://github.com/
+
